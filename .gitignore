@@ -1,0 +1,6 @@
+# Compiled Files
+*.out
+
+# Dependencies
+node_modules
+

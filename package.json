@@ -1,0 +1,23 @@
+{
+  "name": "coursera-ucsd-alg-toolbox",
+  "version": "1.0.0",
+  "description": "Programming assignments from the Coursera UCSD algorithmic toolbox course.",
+  "repository": "git@github.com:jrubins/coursera-ucsd-alg-toolbox.git",
+  "author": "Jonathan Rubins <jonrubins@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test:watch": "jest --watch",
+    "tsnode": "ts-node"
+  },
+  "devDependencies": {
+    "@babel/core": "7.10.4",
+    "@babel/preset-env": "7.10.4",
+    "@babel/preset-typescript": "7.10.4",
+    "@types/jest": "26.0.3",
+    "babel-jest": "26.1.0",
+    "jest": "26.1.0",
+    "prettier": "2.0.5",
+    "ts-node": "8.10.2",
+    "typescript": "3.9.5"
+  }
+}
